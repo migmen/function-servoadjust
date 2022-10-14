@@ -15,7 +15,7 @@ let loop = false
 // 
 // 6.Reset, then Push B to walk
 // 
-// If PLEN does not fall over, setting is complete
+// If Kapakai does not fall over, setting is complete
 function servoAdjust () {
     adjNum = 0
     servoNum = 0
